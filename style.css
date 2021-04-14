@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: 
+}
+
+.sec{
+    height: 450px;
+    width: 550px;
+    border: solid;
+    border-color: black;
+    border-radius: 30px;
+}
+
+.section-style{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+div{
+    margin-top: 15px;
+    background-color: lightcyan;
+}
+
+.image-section{
+    display: flex;|
+    justify-content: center;
+}
